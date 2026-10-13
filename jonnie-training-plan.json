@@ -1,0 +1,98 @@
+{
+  "client": "Jonnie",
+  "goal": "Build muscle and strength",
+  "days": 3,
+  "programme": {
+    "1": [
+      {
+        "name": "Barbell squat",
+        "sets": 4,
+        "reps": "6-8"
+      },
+      {
+        "name": "Dumbbell bench press",
+        "sets": 4,
+        "reps": "8-10"
+      },
+      {
+        "name": "Dumbbell Romanian deadlift",
+        "sets": 3,
+        "reps": "8-10"
+      },
+      {
+        "name": "One-arm dumbbell row",
+        "sets": 3,
+        "reps": "10 each side"
+      },
+      {
+        "name": "Dumbbell shoulder press",
+        "sets": 3,
+        "reps": "8-10"
+      }
+    ],
+    "2": [
+      {
+        "name": "Boxing warm-up and footwork",
+        "sets": 1,
+        "reps": "5 minutes"
+      },
+      {
+        "name": "Heavy bag boxing",
+        "sets": 5,
+        "reps": "2 minutes, 1 minute rest"
+      },
+      {
+        "name": "Plank",
+        "sets": 3,
+        "reps": "30-45 seconds"
+      },
+      {
+        "name": "Reverse crunch",
+        "sets": 3,
+        "reps": "12-15"
+      },
+      {
+        "name": "Russian twists",
+        "sets": 3,
+        "reps": "20 total"
+      }
+    ],
+    "3": [
+      {
+        "name": "Barbell deadlift",
+        "sets": 3,
+        "reps": "5-6"
+      },
+      {
+        "name": "Dumbbell incline bench press",
+        "sets": 3,
+        "reps": "8-10"
+      },
+      {
+        "name": "Dumbbell reverse lunge",
+        "sets": 3,
+        "reps": "10 each leg"
+      },
+      {
+        "name": "Dumbbell bent-over row",
+        "sets": 3,
+        "reps": "8-12"
+      },
+      {
+        "name": "Dumbbell lateral raise",
+        "sets": 3,
+        "reps": "12-15"
+      },
+      {
+        "name": "Dumbbell biceps curl",
+        "sets": 2,
+        "reps": "10-12"
+      }
+    ]
+  },
+  "sessionMinutes": {
+    "1": 60,
+    "2": 30,
+    "3": 60
+  }
+}
